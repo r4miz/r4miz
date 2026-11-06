@@ -1,5 +1,7 @@
 # Ramiz Ghareeba
+
 linkedin.com/in/ramiz-ghareeba-a0928224a
+
 Support engineer at LSPedia, previously an IT business systems analyst intern at Koch. I work on IT support, systems analysis and security, and I build and run my own home lab to go deeper than the day job allows.
 
 - **Now:** application support (25+ tickets a week), troubleshooting, documentation
